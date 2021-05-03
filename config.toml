@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "https://vdgauthier.com"
+title = "vincentdgauthier"
 
 theme = "hugo-coder"
 
@@ -15,20 +15,20 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    author = "Vincent D-Gauthier"
+    description = "Vincent D-Gauthier's blog"
+    keywords = "blog,developer,personal,systems,devops"
+    info = "SysAdmin enthousiast"
     avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "Enter a text here."
+    footerContent = "For the love of Code"
 
     dateFormat = "January 2, 2006"
 
     hideFooter = false
     hideCredits = false
     hideCopyright = false
-    since = 2019
+    since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -126,12 +126,12 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/pychunks/"
 [[params.social]]
     name = "Gitlab"
     icon = "fa fa-gitlab"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://gitlab.com/pychunks/"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
@@ -142,16 +142,16 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
+# [[params.social]]
+#     name = "Medium"
+#     icon = "fa fa-medium"
+#     weight = 5
+#     url = "https://medium.com/@johndoe"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
+    url = "https://vdgauthier.com/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 
