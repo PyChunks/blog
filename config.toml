@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Vincent D-Gauthier's blog"
     keywords = "blog,developer,personal,systems,devops"
     info = "SysAdmin enthousiast"
-    avatarURL = "images/darwiin.png"
+    # avatarURL = "images/darwiin.png"
     #gravatar = "john.doe@example.com"
     footerContent = "For the love of Code"
 
