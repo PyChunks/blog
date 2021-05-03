@@ -1,5 +1,5 @@
 baseURL = "https://vdgauthier.com"
-title = "vincentdgauthier"
+title = "VDG"
 
 theme = "hugo-coder"
 
@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Vincent D-Gauthier's blog"
     keywords = "blog,developer,personal,systems,devops"
     info = "SysAdmin enthousiast"
-    avatarURL = "images/avatar.jpg"
+    avatarURL = "images/darwiin.png"
     #gravatar = "john.doe@example.com"
     footerContent = "For the love of Code"
 
@@ -142,11 +142,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/johndoe/"
-# [[params.social]]
-#     name = "Medium"
-#     icon = "fa fa-medium"
-#     weight = 5
-#     url = "https://medium.com/@johndoe"
+[[params.social]]
+    name = "Medium"
+    icon = "fa fa-medium"
+    weight = 5
+    url = "https://medium.com/@johndoe"
 [[params.social]]
     name = "RSS"
     icon = "fa fa-rss"
